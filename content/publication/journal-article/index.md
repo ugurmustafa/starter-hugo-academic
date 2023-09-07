@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Control and Study of Bio-Inspired Quadrupedal Gaits on an Underactuated Miniature Robot"
 authors:
 - admin
 - Robert Ford
