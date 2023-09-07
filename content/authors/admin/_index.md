@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mugur@purdue.edu'
+    link: 'mailto:mugur@purdue.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
