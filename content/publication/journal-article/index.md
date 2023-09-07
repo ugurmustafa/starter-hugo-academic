@@ -1,12 +1,15 @@
 ---
 title: "Control and Study of Bio-Inspired Quadrupedal Gaits on an Underactuated Miniature Robot"
 authors:
+- Mohammad Askari
 - admin
-- Robert Ford
+- Nima Mahkam
+- Alper Yeldan
+- Onur Özcan
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
